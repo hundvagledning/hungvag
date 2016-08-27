@@ -251,6 +251,9 @@ a {
     width: 300px;
     height: 300px;
 }
+#bottom-images img {
+  padding-right: 10px;
+}
 
 img.wrap {
   padding-bottom: 10px;
